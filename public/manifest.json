@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "くもどめ",
+  "name": "くもどめ - 軽量 Markdown エディタ",
   "icons": [
     {
       "src": "favicon.ico",
